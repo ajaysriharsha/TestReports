@@ -330,23 +330,10 @@
       <Width>6.5in</Width>
       <Page>
         <PageHeader>
-          <Height>3.26953cm</Height>
+          <Height>1.71336cm</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
-            <Image Name="Image1">
-              <Source>Embedded</Source>
-              <Value>pp</Value>
-              <Sizing>FitProportional</Sizing>
-              <Left>13.12617cm</Left>
-              <Height>3.26953cm</Height>
-              <Width>3.38383cm</Width>
-              <Style>
-                <Border>
-                  <Style>None</Style>
-                </Border>
-              </Style>
-            </Image>
             <Textbox Name="Textbox1">
               <CanGrow>true</CanGrow>
               <KeepTogether>true</KeepTogether>
@@ -370,7 +357,6 @@
               <Left>0.75353cm</Left>
               <Height>0.76933cm</Height>
               <Width>4.51317cm</Width>
-              <ZIndex>1</ZIndex>
               <Style>
                 <Border>
                   <Style>None</Style>
